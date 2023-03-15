@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "hello Abrc"|tr '[A,c]' '[Z,e]'
